@@ -3,4 +3,7 @@
 
 - [query Leechanwoo](./chanwho/w3schools/where_in_subquery.sql)
 
+
+- [query leechanwoo](./chanwho/w3schools/where_and_not.sql)
+
 ctrl + shift + v
