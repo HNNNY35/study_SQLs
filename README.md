@@ -22,6 +22,7 @@
 
 ### CategoryName 가 Dairy Products, Seafood이고 Price 10.00이상 50.00이하인 주문  OrderID 내역과 총 갯수는 ?
 - [query haein](./haein/w3schools/CategoryName_Products_Order.sql)
+- [query Leechanwoo](./chanwho/w3schools/CategoryName_Products_Order.sql)
 
 
 
