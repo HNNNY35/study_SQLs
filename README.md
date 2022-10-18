@@ -14,3 +14,9 @@
 ### +5 : ? 분류(Categories)가 Produce, Beverages인 제품(Products) 총 갯수는 ?
 - [query haein](./haein/w3schools/Categories_Products_totals.sql)
 - [query Leechanwoo](./chanwho/w3schools/Categories_Products_totals.sql)
+
+
+
+
+- [query Leechanwoo](./chanwho/w3schools/CategoryName_Products.sql)
+
