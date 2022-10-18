@@ -24,7 +24,9 @@
 - [query haein](./haein/w3schools/CategoryName_Products_Order.sql)
 - [query Leechanwoo](./chanwho/w3schools/CategoryName_Products_Order.sql)
 
+## -- +1 l Categories별로 구성된 제품 갯수 표시하세요
 
+- [query Leechanwoo](./chanwho/w3schools/Categories_Products_Count.sql)
 
 
 
