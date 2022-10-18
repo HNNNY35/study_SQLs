@@ -11,12 +11,20 @@
 - [query haein](./haein/w3schools/Employee_Order_totals.sql)
 - [query Leechanwoo](./chanwho/w3schools/Employees_Order_totals.sql)
 
-### +5 : ? 분류(Categories)가 Produce, Beverages인 제품(Products) 총 갯수는 ?
+### ? 분류(Categories)가 Produce, Beverages인 제품(Products) 총 갯수는 ?
 - [query haein](./haein/w3schools/Categories_Products_totals.sql)
 - [query Leechanwoo](./chanwho/w3schools/Categories_Products_totals.sql)
 
 
-
-
+###  CategoryName 가 Dairy Products, Seafood이고 Price 10.00이상 50.00이하인 합계와 평균은 ?
+- [query haein](./haein/w3schools/CategoryName_Products.sql)
 - [query Leechanwoo](./chanwho/w3schools/CategoryName_Products.sql)
+
+### CategoryName 가 Dairy Products, Seafood이고 Price 10.00이상 50.00이하인 주문  OrderID 내역과 총 갯수는 ?
+- [query haein](./haein/w3schools/CategoryName_Products_Order.sql)
+
+
+
+
+
 
