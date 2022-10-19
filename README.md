@@ -32,4 +32,6 @@
 - [query haein](./haein/w3schools/Products_HAVING.sql)
 - [query Leechanwoo](./chanwho/w3schools/Products_HAVING.sql)
 
-
+## 퀘스트 Users_Auths_query.sql
+ - [query haein](./haein/Users_Auths_query.sql)
+ - [query Leechanwoo](./chanwho/Users_Auths_query.sql)
