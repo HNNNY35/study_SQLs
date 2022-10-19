@@ -28,6 +28,9 @@
 - [query haein](./haein/w3schools/Categories_Products_Count.sql)
 - [query Leechanwoo](./chanwho/w3schools/Categories_Products_Count.sql)
 
+### Products 카테고리별로 20이상인 제품은 무엇인지 확인하세요
 
+
+- [query Leechanwoo](./chanwho/w3schools/Products_HAVING.sql)
 
 
