@@ -35,3 +35,7 @@
 ### 퀘스트 Users_Auths_query.sql
  - [query haein](./haein/Users_Auths_query.sql)
  - [query Leechanwoo](./chanwho/Users_Auths_query.sql)
+
+
+### Products에 CategoryID가 5,6인 것을 표시. 내용 : 제품이름, 공급자 이름 출력
+-[query haein](./haein/w3schools/Products_CategoryID.sql)
