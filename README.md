@@ -42,5 +42,5 @@
 - [query Leechanwoo](./chanwho/w3schools/Products_CategoryID.sql)
 
 ### -- 제품명, 가격, 주문 갯수?
-
+- [query haein](./haein/w3schools/Products_Quantity.sql)
 - [query Leechanwoo](./chanwho/w3schools/Products_Quantity.sql)
