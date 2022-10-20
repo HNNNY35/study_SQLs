@@ -46,5 +46,5 @@
 - [query Leechanwoo](./chanwho/w3schools/Products_Quantity.sql)
 
 ### 이름, 이메일, 권한이름 표시  / 조건 이름이 'Teddy', 'Allen' ?
-
+- [query haein](./haein/Users_Auth_names.sql)
 - [query Leechanwoo](./chanwho/w3schools/Users_Auth_names.sql)
