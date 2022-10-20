@@ -41,6 +41,10 @@
 -  [query haein](./haein/w3schools/Products_CategoryID.sql)
 - [query Leechanwoo](./chanwho/w3schools/Products_CategoryID.sql)
 
-### -- 제품명, 가격, 주문 갯수?
+### 제품명, 가격, 주문 갯수?
 - [query haein](./haein/w3schools/Products_Quantity.sql)
 - [query Leechanwoo](./chanwho/w3schools/Products_Quantity.sql)
+
+### 이름, 이메일, 권한이름 표시  / 조건 이름이 'Teddy', 'Allen' ?
+
+- [query Leechanwoo](./chanwho/w3schools/Users_Auth_names.sql)
