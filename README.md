@@ -40,3 +40,7 @@
 ### Products에 CategoryID가 5,6인 것을 표시. 내용 : 제품이름, 공급자 이름 출력
 -  [query haein](./haein/w3schools/Products_CategoryID.sql)
 - [query Leechanwoo](./chanwho/w3schools/Products_CategoryID.sql)
+
+### -- 제품명, 가격, 주문 갯수?
+
+- [query Leechanwoo](./chanwho/w3schools/Products_Quantity.sql)
